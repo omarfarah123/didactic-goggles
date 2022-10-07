@@ -29,5 +29,5 @@ You can find me on github at https://github.com/undefined
 Additional Questions you can email me at cronogy@gmail.com
 ### License
 The software is available to all under the Academic Free License v3.0. You can learn more about this license at https://opensource.org/licenses/AFL-3.0
-###Walkthrough
+### Walkthrough
 https://youtu.be/fK064fhoPuc
